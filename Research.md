@@ -1,4 +1,5 @@
 # Research Semester 3
+![1_G48L33n3M7FXze_kturcyQ](https://user-images.githubusercontent.com/99720686/158981720-2e3480a6-6daa-432a-9492-cea3d55266c6.jpeg)
 
 ## Frontend Development
 ### Javascript
@@ -38,7 +39,6 @@ UX stands for “User Experience” this is referring to how people interact wit
   -	Credible: The company and its products need to be trustworthy.
 
 ## Backend Devolepment
-![1_G48L33n3M7FXze_kturcyQ](https://user-images.githubusercontent.com/99720686/158981720-2e3480a6-6daa-432a-9492-cea3d55266c6.jpeg)
 If we are talking about development there are always two different parts you have the frond-end and the back-end. The frond-end runs on the client-side and the back-end runs on the server-side. Like frond-end which uses frameworks, the back-end is also using frameworks. A framework helps to speed up development and aims to improve maintainability. Every framework has its own positives and negatives. But before I choose a framework I first need to choose a language. There are two languages I can choose from. The first one is .NET this means I’m going to use the same language as the semester before. Which means I’m going to dive deeper into the language. The other option is to Use Java. This is a new language for me which means I have to learn the language first. 
 
 ### .NET Frameworks
