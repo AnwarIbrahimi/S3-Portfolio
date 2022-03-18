@@ -2,7 +2,7 @@
 
 ## Table of contents
 
-  - [Outcome 1: You design and build user-friendly, full stack web applications]#outcome-1-you-design-and-build-user-friendly-full-stack-web-applications)
+  - [Outcome 1: You design and build user-friendly, full stack web applications](#outcome-1-you-design-and-build-user-friendly-full-stack-web-applications)
 
 # Learning Outcomes 
 
