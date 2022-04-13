@@ -31,6 +31,9 @@ well-defined selection criteria and context analyses.
 ### Outcome 4: You design and implement a (semi)automated software release process that matches the needs of the project context.
 You design a release process and implement a continuous integration and deployment solution (using e.g. Gitlab CI and Docker).
 
+#### CI/CD
+CI/CD is a method to deploy automation into developing. CI/CD stands for continous integration, continious delivery and continious deployement
+
 ### Outcome 5: You recognize and take into account cultural differences between project stakeholders and ethical aspects in software development.
 Recognition is based on theoretically substantiated awareness of cultural differences and ethical aspects in software engineering.
 Adapt your communication, working, and behavior styles to reflect project stakeholders from different cultures;
