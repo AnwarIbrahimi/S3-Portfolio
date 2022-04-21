@@ -100,3 +100,11 @@ development project (e.g., product release, market release, financial assurance)
 ### Outcome 8: You act in a professional manner during software development and learning
 You actively ask and apply feedback from stakeholders and advise them on the most optimal technical and design (architectural) solutions.
 You choose and substantiate solutions for a given problem.
+
+Below is an example of how i communicate with my teacher and the stakeholder through feedpulse and mail.
+Feedpulse:
+![image](https://user-images.githubusercontent.com/99720686/164450252-96b76f3e-76a2-4f42-a43f-3d1c58fa2ec7.png)
+Stakeholder:
+![image](https://user-images.githubusercontent.com/99720686/164450990-47637541-7fd2-4b1a-9156-535b26be36fe.png)
+
+
