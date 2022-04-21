@@ -44,8 +44,18 @@ To use agile methods and principles in the group we use github. In github we mak
 - [Product Backlog](https://github.com/AnwarIbrahimi/Netmatch/issues)
 - [Sprint Backlog](https://github.com/AnwarIbrahimi/Netmatch/projects/3)
 
+This is an extra step we do with user stories besides that we have a overview with all the user stories we go into depth with what a user story exactly is 
+and what the steps are to complete one.
+
+![image](https://user-images.githubusercontent.com/99720686/164445325-8c836a26-66d6-4f1c-8f7c-7e4d39de9b5c.png)
+
 ![image](https://user-images.githubusercontent.com/99720686/164421495-8184aa05-8db8-49bf-9749-91ac43147982.png)
 ![image](https://user-images.githubusercontent.com/99720686/164421545-ebfbb694-bf5b-42ea-8d82-e2077f57d5fb.png)
+
+
+below is a summary of the retrospecive we did for sprint 2.
+
+![image](https://user-images.githubusercontent.com/99720686/164444802-f53c78bc-d17b-45c4-a59f-a08b0b53d1a7.png)
 
 
 ### Outcome 4: You design and implement a (semi)automated software release process that matches the needs of the project context.
