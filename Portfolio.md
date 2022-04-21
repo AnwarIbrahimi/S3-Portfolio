@@ -70,6 +70,9 @@ To implement CI/CD i used github. Below you can see the worflow i used.
 Below you can see the docker push image i used. I'm also using docker desktop to push out the containers.
 ![image](https://user-images.githubusercontent.com/99720686/164418863-73553fc9-2aef-4ef6-9406-5037f3631136.png)
 
+![image](https://user-images.githubusercontent.com/99720686/164448231-74bb6fa8-b094-40a2-94e0-2b4ad18d2db1.png)
+
+
 ### Outcome 5: You recognize and take into account cultural differences between project stakeholders and ethical aspects in software development.
 Recognition is based on theoretically substantiated awareness of cultural differences and ethical aspects in software engineering.
 Adapt your communication, working, and behavior styles to reflect project stakeholders from different cultures;
