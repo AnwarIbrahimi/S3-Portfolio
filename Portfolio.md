@@ -37,11 +37,12 @@ For the backend i went with java as this was a new language for me and i wanted 
 Carry out, monitor and report on unit integration, regression and system tests, with attention for security and performance aspects, as
 well as applying static code analysis and code reviews.
 
-For this Learning Outcome i will assure software quality and tools to make that work.
+For this Learning Outcome i will assure software quality and tools to make that work. In order to make that work i will need to make different kinds of tests. This will be functional and non-functional tests. Part of this will also be automation tests. To assure this i will implement a CI/CD pipeline with github actions. I also need to look at what test i will use for the different parts in my project.
 
 ### Outcome 3: You choose and implement the most suitable agile software development method for your software project
 You are aware of the most popular agile methods and their underlying agile principles. Your choice of a method is motivated and based on
 well-defined selection criteria and context analyses.
+
 
 To use agile methods and principles in the group we use github. In github we make use of a **sprint backlog**. We made user stories as issues. We are also making use of a **product backlog**. This is defined in a board. This board is being updated at the start of every sprint. Below you can find the links of the backlogs. At the end of sprint we do a sprint review. To do this we make a powerpoint with the the tasks we planned to do at the start of the sprint and what we succeeded at the end of the sprint. We also reflect on the sprint. All this we do in front of the client and we get feedback from them. This feedback is documented and we also take this into the retrospective. As scrummaster in a retropsective i make sure that everyone understands what the meeting means and that the meeting doesn't take too long.
 
@@ -65,6 +66,8 @@ below is a summary of the retrospecive we did for sprint 2.
 ### Outcome 4: You design and implement a (semi)automated software release process that matches the needs of the project context.
 You design a release process and implement a continuous integration and deployment solution (using e.g. Gitlab CI and Docker).
 
+For this Learning Outcome i will implement CI/CD with github actions. I will also will be using Docker Desktop for the container.
+
 #### CI/CD
 CI/CD is a method to deploy automation into developing. CI/CD stands for continous integration, continious delivery and continious deployement
 
@@ -81,6 +84,8 @@ Below you can see the docker push image i used. I'm also using docker desktop to
 Recognition is based on theoretically substantiated awareness of cultural differences and ethical aspects in software engineering.
 Adapt your communication, working, and behavior styles to reflect project stakeholders from different cultures;
 Address one of the standard Programming Ethical Guidelines (e.g., ACM Code of Ethics and Professional Conduct) in your work.
+
+For this Learing Outcome i will explain the diffrences in the different cultures and how this affects us as a group.
 
 I have made a personality test for the LO Cultural Differences. The result i got is that i am a leader. I can see myself being this since i was the group leader in previous semensters and i am the scrummaster this semester. As a leader i take initiative in the group. 
 
@@ -110,5 +115,3 @@ Feedpulse:
 ![image](https://user-images.githubusercontent.com/99720686/164450252-96b76f3e-76a2-4f42-a43f-3d1c58fa2ec7.png)
 Stakeholder:
 ![image](https://user-images.githubusercontent.com/99720686/164450990-47637541-7fd2-4b1a-9156-535b26be36fe.png)
-
-
