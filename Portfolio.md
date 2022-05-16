@@ -37,7 +37,7 @@ For the backend i went with java as this was a new language for me and i wanted 
 Carry out, monitor and report on unit integration, regression and system tests, with attention for security and performance aspects, as
 well as applying static code analysis and code reviews.
 
-For this Learning Outcome i will assure software quality and tools to make that work. In order to make that work i will need to make different kinds of tests. This will be functional and non-functional tests. Part of this will also be automation tests. To assure this i will implement a CI/CD pipeline with github actions. I also need to look at what test i will use for the different parts in my project.
+For this Learning Outcome i will assure software quality and tools to make that work. In order to make that work i will need to make different kinds of tests. Which exact tests this will be i need to look more into. This will be functional and non-functional tests. Part of this will also be automation tests. To assure this i will implement a CI/CD pipeline with github actions. I also need to look at what test i will use for the different parts in my project.
 
 ### Outcome 3: You choose and implement the most suitable agile software development method for your software project
 You are aware of the most popular agile methods and their underlying agile principles. Your choice of a method is motivated and based on
@@ -66,7 +66,7 @@ below is a summary of the retrospecive we did for sprint 2.
 ### Outcome 4: You design and implement a (semi)automated software release process that matches the needs of the project context.
 You design a release process and implement a continuous integration and deployment solution (using e.g. Gitlab CI and Docker).
 
-For this Learning Outcome i will implement CI/CD with github actions. I will also will be using Docker Desktop for the container.
+For this Learning Outcome i will implement CI/CD with github actions. I will also will be using Docker Desktop for the Docker container. 
 
 #### CI/CD
 CI/CD is a method to deploy automation into developing. CI/CD stands for continous integration, continious delivery and continious deployement
@@ -95,6 +95,9 @@ I have made a personality test for the LO Cultural Differences. The result i got
 You apply user acceptance testing and stakeholder feedback to validate the quality of the requirements. You evaluate the quality of the design
 (e.g., by testing or prototyping) taking into account the formulated quality properties like security and performance.
 
+For this learning outcome i will be making a C4 Model. This will be part of my architecture document. In addition i have a Analyse document with different
+user stories and requirements of my application.
+
 #### User stories
 Below is a example of a user story i made.
 
@@ -106,9 +109,13 @@ Involving stakeholders, predominantly sequential processes with one or two alter
 will be used (business processes that the software must support by fully or partially automating them). or Business processes needed for the success of your software
 development project (e.g., product release, market release, financial assurance).
 
+For this Learning outcome i will do research into the business process and how this affects my project. 
+
 ### Outcome 8: You act in a professional manner during software development and learning
 You actively ask and apply feedback from stakeholders and advise them on the most optimal technical and design (architectural) solutions.
 You choose and substantiate solutions for a given problem.
+
+For this Learning outcome i will continiously ask feedback and work with this feedback. 
 
 Below is an example of how i communicate with my teacher and the stakeholder through feedpulse and mail.
 Feedpulse:
