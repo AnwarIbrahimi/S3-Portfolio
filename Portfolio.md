@@ -20,6 +20,8 @@ You apply basic User experience testing and development techniques.
 You design and build a full stack application using commonly accepted front end (Javascript-based framework) and back end techniques (e.g.,
 Object Relational Mapping) choosing and implementing relevant communication protocols and addressing asynchronous communication issues.
 
+For this Learning Outcome i will create a full stack web application which consists of a backend and frontend. For the frontend i will be using React as the framework. I'm also using the movie database API to get up to date movies and series. For the backend i'm using Springboot and i will also make my own REST API. 
+
 For the frontend i chose Javascript and for the framework react. More on why i chose this you can find in my research with the link below.
 - [Frontend Development](https://github.com/AnwarIbrahimi/S3-Portfolio/blob/main/Research.md#frontend-development)
 
@@ -34,6 +36,8 @@ For the backend i went with java as this was a new language for me and i wanted 
 ### Outcome 2: You use software tooling and methodology that continuously monitors and improve the software quality during software development.
 Carry out, monitor and report on unit integration, regression and system tests, with attention for security and performance aspects, as
 well as applying static code analysis and code reviews.
+
+For this Learning Outcome i will assure software quality and tools to make that work.
 
 ### Outcome 3: You choose and implement the most suitable agile software development method for your software project
 You are aware of the most popular agile methods and their underlying agile principles. Your choice of a method is motivated and based on
