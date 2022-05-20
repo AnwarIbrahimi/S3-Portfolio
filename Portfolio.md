@@ -145,4 +145,13 @@ For this learning outcome i made a STARR reflection on the sitation and communic
 
 ![STARR](https://user-images.githubusercontent.com/99720686/169486147-c5d82dd3-d95e-4aee-b688-c3f625a97af7.png)
 
+**Situation**:
+
+**Task**:
+
+**Action**:
+
+**Results**:
+
+**Reflection**:
 
