@@ -1,5 +1,7 @@
 ## Analyse
-In this document i will describe the user stories and requirements of my application
+In this document i will describe the user stories and requirements of my application.
+
+![Analyse](https://user-images.githubusercontent.com/99720686/173358036-ef8aa399-0bda-41d9-b2ad-1cb8e4fbcd01.png)
 
 ### User stories
 A user story is an informal, general explanation of a software feature written from the perspective of the end user or customer. The purpose of a user story is to articulate how a piece of work will deliver a particular value back to the customer.
