@@ -145,6 +145,8 @@ user stories and requirements of my application.
 #### What have i done for this learning outcome?
 For this learning outcome i made a C4 model to have a view of the architecture of my application. I also made requirements and out of these requirements i made user stories examples of these are below.
 
+- [Architecture](https://github.com/AnwarIbrahimi/S3-Portfolio/blob/main/Architecture.md)
+- [Analyse](https://github.com/AnwarIbrahimi/S3-Portfolio/blob/main/Analyse.md)
 
 ### Outcome 7: You analyze and describe simple business processes that are related to your project.
 #### What does this learning outcome mean?
