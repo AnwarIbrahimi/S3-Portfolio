@@ -47,8 +47,34 @@ well as applying static code analysis and code reviews.
 For this Learning Outcome i will assure software quality and tools to make that work. In order to make that work i will need to make different kinds of tests. Which exact tests this will be i need to look more into. This will be functional and non-functional tests. Part of this will also be automation tests. To assure this i will implement a CI/CD pipeline with github actions. I also need to look at what test i will use for the different parts in my project.
 
 #### What have i done for this learning outcome?
-Nothing atm.
 
+#### What is testing?
+Software Testing is a method to check whether the actual software product matches expected requirements and to ensure that software product is Defect free. It involves execution of software/system components using manual or automated tools to evaluate one or more properties of interest. The purpose of software testing is to identify errors, gaps or missing requirements in contrast to actual requirements.
+
+#### Why is testing important?
+Software Testing is Important because if there are any bugs or errors in the software, it can be identified early and can be solved before delivery of the software product. Properly tested software product ensures reliability, security and high performance which further results in time saving, cost effectiveness and customer satisfaction.
+
+#### What different kinds of tests are availiable?
+It's important to make the distinction between manual and automated tests. Manual testing is done in person, by clicking through the application or interacting with the software and APIs with the appropriate tooling. This is very expensive since it requires someone to setup an environment and execute the tests themselves, and it can be prone to human error as the tester might make typos or omit steps in the test script.
+
+Automated tests, on the other hand, are performed by a machine that executes a test script that was written in advance. 
+
+#### Unit tests
+Unit tests are very low level and close to the source of an application. They consist in testing individual methods and functions of the classes, components, or modules used by your software. Unit tests are generally quite cheap to automate and can run very quickly by a continuous integration server.
+
+#### Integration tests
+Integration tests verify that different modules or services used by your application work well together. For example, it can be testing the interaction with the database or making sure that microservices work together as expected. These types of tests are more expensive to run as they require multiple parts of the application to be up and running.
+
+#### End-to-end tests
+End-to-end testing replicates a user behavior with the software in a complete application environment. It verifies that various user flows work as expected and can be as simple as loading a web page or logging in or much more complex scenarios verifying email notifications, online payments, etc...
+
+End-to-end tests are very useful, but they're expensive to perform and can be hard to maintain when they're automated. It is recommended to have a few key end-to-end tests and rely more on lower level types of testing (unit and integration tests) to be able to quickly identify breaking changes.
+
+#### Which tests will i be using and why?
+I will make use of **unit tests** to ensure that the functions of my classes work correctly. The unit tests that i will be making will mostly be for
+the crud operations i made. Besides unit tests i will also make **end-to-end tests** to make sure that the user flow works as expected. And last but not least i will make **integration tests** to make the different components of my application works wel together. 
+
+ 
 ### Outcome 3: You choose and implement the most suitable agile software development method for your software project
 #### What does this learning outcome mean?
 You are aware of the most popular agile methods and their underlying agile principles. Your choice of a method is motivated and based on
