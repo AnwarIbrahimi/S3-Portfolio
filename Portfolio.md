@@ -191,6 +191,29 @@ For this Learing Outcome i will explain the diffrences in the different cultures
 #### What have i done for this learning outcome?
 I have made a personality test for the LO Cultural Differences. The result i got is that i am a leader. I can see myself being this since i was the group leader in previous semensters and i am the scrummaster this semester. As a leader i take initiative in the group. 
 
+### Culture
+#### **What is culture?**
+
+
+#### **Which are well-known dimensions on cultural differences?**
+
+
+#### **Can you give examples for cultural differences that you have experienced in your study or life? How do you explain these differences?**
+
+
+#### **What is your culture?**
+
+### Ethics
+#### **What is ethics in software engineeering?**
+
+#### **Why is ethics important in software engineeering?**
+
+#### **What do you have to do as a software engineer to address ethical aspects in your work?**
+
+#### **How do you know that your ethical considerations match with those of other software engineers?**
+
+#### **Which ethical aspects play a role in your project?** 
+
 ![image](https://user-images.githubusercontent.com/99720686/164412887-3ae43775-7a1b-4fe8-85c7-edad1869dd0e.png)
 
 ### Outcome 6: You analyze (non-functional) requirements, elaborate (architectural) designs and validate them using multiple types of test techniques
@@ -208,6 +231,8 @@ For this learning outcome i made a C4 model to have a view of the architecture o
 - [Architecture](https://github.com/AnwarIbrahimi/S3-Portfolio/blob/main/Architecture.md)
 - [Analyse](https://github.com/AnwarIbrahimi/S3-Portfolio/blob/main/Analyse.md)
 
+#### How did we validate the requirements and design with the stakeholder?
+
 ### Outcome 7: You analyze and describe simple business processes that are related to your project.
 #### What does this learning outcome mean?
 Involving stakeholders, predominantly sequential processes with one or two alternative paths. Business processes during which the software that you are developing
@@ -218,7 +243,13 @@ development project (e.g., product release, market release, financial assurance)
 For this Learning outcome i will do research into the business process and how this affects my project. 
 
 #### What have i done for this learning outcome?
-Nothing atm.
+
+#### **What is a business process?**
+
+#### **How a business proces relates to software applications?**
+
+#### Business Process Diagram
+
 
 ### Outcome 8: You act in a professional manner during software development and learning
 #### What does this learning outcome mean?
