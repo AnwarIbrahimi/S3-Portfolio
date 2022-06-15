@@ -97,6 +97,66 @@ To use agile methods and principles in the group we use github. In github we mak
 An extra step we do with user stories besides that we have a overview with all the user stories we go into depth with what a user story exactly is 
 and what the steps are to complete one. In order to do this we write on a whiteboard step by step what a user story really consists out of different layers. 
 
+As i explained above agile is an approach to project management and software devolopment. Agile also has a Mainfestio whitch outlines 4 values and 12 principles for teams and are as followed. 
+
+**Individuals and interactions** over processes and tools
+
+**Working software** over comprehensive documentation
+
+**Customer collaboration** over contract negotiation
+
+**Responding to change** over following a plan
+
+### **The 12 principles behind Agile Manifestio:**
+
+Our highest priority is to satisfy the customer
+through early and continuous delivery
+of valuable software.
+
+Welcome changing requirements, even late in
+development. Agile processes harness change for
+the customer's competitive advantage.
+
+Deliver working software frequently, from a
+couple of weeks to a couple of months, with a
+preference to the shorter timescale.
+
+Business people and developers must work
+together daily throughout the project.
+
+Build projects around motivated individuals.
+Give them the environment and support they need,
+and trust them to get the job done.
+
+The most efficient and effective method of
+conveying information to and within a development
+team is face-to-face conversation.
+
+Working software is the primary measure of progress.
+
+Agile processes promote sustainable development.
+The sponsors, developers, and users should be able
+to maintain a constant pace indefinitely.
+
+Continuous attention to technical excellence
+and good design enhances agility.
+
+Simplicity--the art of maximizing the amount
+of work not done--is essential.
+
+The best architectures, requirements, and designs
+emerge from self-organizing teams.
+
+At regular intervals, the team reflects on how
+to become more effective, then tunes and adjusts
+its behavior accordingly.
+
+### **Extreme Programming (XP)**
+In the group project we were mainly using the scrum method. In addition to the scrum method there are different agile methods to use. One of these is the Extrexe Programming (XP) one. XP is a method that emphazizes teamwork, communicatioin and feedback. It focuses on constant development and feedback from the customer. Almost the same as scrum. XP also uses short sprint and development cycles so in a way we were also doing XP while doing scrum. XP is mostly being used in a situation where the requirements of a custsomer varies alot. It also allows the developers to keep up with these demands.
+
+### **Conclusion**
+Working with the agile methodology has been very useful this past few months. Myself and the group have come a long way adapting to the method and evolved as a group and individuals. Choosing a agile method also depends on the project and the situation. The best thing to do is to look at the advantages and disadvantages of a method and choose one after that.
+
 ### Outcome 4: You design and implement a (semi)automated software release process that matches the needs of the project context.
 #### What does this learning outcome mean?
 You design a release process and implement a continuous integration and deployment solution (using e.g. Gitlab CI and Docker).
