@@ -60,6 +60,8 @@ Om de hoofdvraag te kunnen beantwoorden, deel ik deze op in deelvragen:
 
 <hr>
 
+<h2 align="center" id="conclusie">Conclusie</h2>
+
 <h2 align="center" id="bron">Bronnenlijst</h2>
 
 Hoe veilig zijn wij en onze data eigenlijk online?: https://netwerkmediawijsheid.nl/hoe-veilig-en-data-eigenlijk-online/
