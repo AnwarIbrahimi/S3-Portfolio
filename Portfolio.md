@@ -74,7 +74,15 @@ End-to-end tests are very useful, but they're expensive to perform and can be ha
 I will make use of **unit tests** to ensure that the functions of my classes work correctly. The unit tests that i will be making will mostly be for
 the crud operations i made. Besides unit tests i will also make **end-to-end tests** to make sure that the user flow works as expected. And last but not least i will make **integration tests** to make the different components of my application works wel together. 
 
- 
+#### SonarQube
+To use static analyse code i used sonarqube. I implemented sonarqube with **Gitlab CI**. Below you will find the screenshots of the analysed code. and the yaml file i used in my repository. i will also explain what i learned about the analysed code and what i can do to improve my code.
+
+![image](https://user-images.githubusercontent.com/99720686/174304160-0403e3c6-0007-40b4-8f7c-6b88814d59fa.png)
+
+As you can see i have 3 vulnerabilities to fix this i can implement a DTO to get rid of the vulnerabilities in my project.
+
+![image](https://user-images.githubusercontent.com/99720686/174304643-c8595693-8ee2-4ec0-a833-98bddd363d97.png)
+
 ### Outcome 3: You choose and implement the most suitable agile software development method for your software project
 #### What does this learning outcome mean?
 You are aware of the most popular agile methods and their underlying agile principles. Your choice of a method is motivated and based on
