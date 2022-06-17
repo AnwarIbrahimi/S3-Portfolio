@@ -83,6 +83,11 @@ As you can see i have 3 vulnerabilities to fix this i can implement a DTO to get
 
 ![image](https://user-images.githubusercontent.com/99720686/174304643-c8595693-8ee2-4ec0-a833-98bddd363d97.png)
 
+### Performace testing
+To test the performace of my appication i used google lighthouse. As a result which you also see in the screenshot below i scored 61 on performance which isn't the greatest. the main reason it isn't higher is bascially because how my application works. I get a lot of data from movies and series which lowers the performance of the application. there is also a lot of pictues the website needs to load. Considering all this the score could be worse. A fix for this would be too minimize the amout of pictures the website has to load on one page and make them smaller. This should bump up the performance by quite a bit.
+
+![image](https://user-images.githubusercontent.com/99720686/174306893-c9ddd2a6-edf6-47e1-a62d-af715e1fad6b.png)
+
 ### Outcome 3: You choose and implement the most suitable agile software development method for your software project
 #### What does this learning outcome mean?
 You are aware of the most popular agile methods and their underlying agile principles. Your choice of a method is motivated and based on
