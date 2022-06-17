@@ -193,26 +193,38 @@ I have made a personality test for the LO Cultural Differences. The result i got
 
 ### Culture
 #### **What is culture?**
+>  “For the purposes of the Intercultural Studies Project, culture is defined as the shared patterns of behaviors and interactions, cognitive constructs, and affective understanding that are learned through a process of socialization. <br> 
+These shared patterns identify the members of a culture group while also distinguishing those of another group.“ 
 
+For me culture is defined by where you come from and where you grow up as a person. This also effects the choices you make in life. 
 
 #### **Which are well-known dimensions on cultural differences?**
+> “Geert Hofstede, in his pioneer study looking at differences in culture across modern nations, identified four dimensions of cultural values: individualism-collectivism, power distance, uncertainty avoidance, and masculinity-femininity. Working with researcher Michael Bond, Hofstede later added a fifth dimension with called dynamic Confucianism, or long-term orientation. According to Hofstede’s research, people, in individualistic societies, are expected to care for themselves and their immediate families only; while in collectivist cultures, people view themselves as members of larger groups, including extended family members, and are expected to take responsibility in caring for each other. With regards to power distance, different countries have varying levels of accepting the distribution of unequal power.“
 
+From what i have read from the different dimensions on cultural differences. these sounds fimiliar to me especailly in the high power distance countries.
 
 #### **Can you give examples for cultural differences that you have experienced in your study or life? How do you explain these differences?**
-
+A example that i have encounterd in my life and the difference in my culture and other cultures is the way people greet eachother. In one culture it's very normal to give kisses to eachother and in other cultures people give a hand.
 
 #### **What is your culture?**
+My culture is north-african, but i'm born and grew up in the Netherlands. So am i mix of both i would see. A part of me follows the african cultures and the other part the dutch culture.
 
 ### Ethics
 #### **What is ethics in software engineeering?**
+Software engineering ethics can be approached from three directions. First, it can
+describe the activity of software engineers making practical choices that affect other
+people in significant ways. Second, it can be used to describe a collection of principles,
+guidelines, or ethical imperatives that guide or legislative action, and third, it can be used
+to name a discipline that studies the relationship between the other two senses of ethics.
+Software engineering ethics is clearly both an activity and a body of principles. The
+discipline of software engineering ethics that studies this activity and formalizes these
+principles, however, is in its infancy.
 
 #### **Why is ethics important in software engineeering?**
-
-#### **What do you have to do as a software engineer to address ethical aspects in your work?**
-
-#### **How do you know that your ethical considerations match with those of other software engineers?**
+Ethics in software engineering leads employees and employers to understand the importance of practicing ethics in software engineering with the digitalizing workplace. So, when an ethical problem arise it has to be resolved straightforward under any circumstance or else unmanaged ethical problems will definitely will cause a serious problem.
 
 #### **Which ethical aspects play a role in your project?** 
+Ethics in my project would be professionaly communicating with eachother but also towards teachers and stakeholders. This also plays a role in asking feedback. When aksing feedback i try to come prepared and pepare the right things so we can have a professional conversation.
 
 ![image](https://user-images.githubusercontent.com/99720686/164412887-3ae43775-7a1b-4fe8-85c7-edad1869dd0e.png)
 
