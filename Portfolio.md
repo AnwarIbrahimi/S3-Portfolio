@@ -244,6 +244,9 @@ For this learning outcome i made a C4 model to have a view of the architecture o
 - [Analyse](https://github.com/AnwarIbrahimi/S3-Portfolio/blob/main/Analyse.md)
 
 #### How did we validate the requirements and design with the stakeholder?
+At first we had a meeting with the stakeholder and asked questions about what they wanted to see in thier application and what thier requirements were. After the meeting we discussed what the best way is to implement these requirements and made some wireframes and requirements. In the next meeting we went over the requirements and wireframes and we set piorities in what order which requirements had priority.
+
+![image](https://user-images.githubusercontent.com/99720686/174300058-7be6691e-2106-452a-89e9-4ee5ee38bb10.png)
 
 ### Outcome 7: You analyze and describe simple business processes that are related to your project.
 #### What does this learning outcome mean?
@@ -255,8 +258,8 @@ development project (e.g., product release, market release, financial assurance)
 For this Learning outcome i will do research into the business process and how this affects my project. 
 
 #### What have i done for this learning outcome?
-
 #### **What is a business process?**
+
 
 #### **How a business proces relates to software applications?**
 
