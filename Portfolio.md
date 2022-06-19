@@ -272,12 +272,16 @@ For this Learning outcome i will do research into the business process and how t
 
 #### What have i done for this learning outcome?
 #### **What is a business process?**
-
+Business process management (BPM) is a systematic approach to improving those processes, which helps organizations achieve their business goals. If an organization is unable to perform certain business processes internally due to cost or resource constraints, the company might use business process outsourcing. Many organizations contract specific business tasks -- such as payroll, human resources (HR) or accounting -- to a third-party service provider.
 
 #### **How a business proces relates to software applications?**
+A structured business process carries out a pre-defined sequence of steps. The process might have many options, with different steps carried out by different instances of the process at different times. Still, the creators of the process determined what the possible steps were in advance. When a structured business process is supported by an application, it’s common for the software to implement the complete process. Think of an automated manufacturing process, for example, where an application directs a group of machines to repeat the same steps over and over. In situations like this, people primarily provide inputs, accept outputs, and handle exceptions. The software carries out the process itself.
 
-#### Business Process Diagram
+#### **Does my software automate a task, facilitate a task, or make a new task possible to perform?** 
+The software i'm making does not automate a task. however during my internship we automated a process and thats what i am going to talk about. The process we automated was when someone came to the helpdesk they needed to wait for someone to come over to help them. To automate this process we created software which could be used on the tablet at the desk. With the software you could fill in what you needed and it told you what to do. Through this process the customer didn't have to wait for a worker to come over them and the worker didn't have to come over. 
 
+#### Business process diagram
+![image](https://user-images.githubusercontent.com/99720686/174477984-4554eb44-cc3d-4365-b001-54ffa7202cbc.png)
 
 ### Outcome 8: You act in a professional manner during software development and learning
 #### What does this learning outcome mean?
@@ -292,13 +296,13 @@ For this learning outcome i made a STARR reflection on the sitation and communic
 
 ![STARR](https://user-images.githubusercontent.com/99720686/169486147-c5d82dd3-d95e-4aee-b688-c3f625a97af7.png)
 
-**Situation**:
+**Situation**: During the end of the sprint we had a sprint review with the customer and i took leed on the presentation.
 
-**Task**:
+**Task**: My task was in the presentation was to talk about the past 3 weeks about what we did as a group and what succedeed and what went wrong. 
 
-**Action**:
+**Action**: During the presentation i went through the requirements we had discussed. I lined them up and when through each of them. I validated with the stakeholder if these are still the requirements they wanted and if we implemented them the way they want.
 
-**Results**:
+**Results**: As a result we had a good overview of which requirements were the priority and in which way these requirements should be made.
 
-**Reflection**:
+**Reflection**: The presentation went smoothly for the most part. We could ask the quesions we wanted and the stakeholder was happy. What i could do better for the next presenatation is to let other peoplpe talk too. This was also feedback from the stakeholder to try and let everyone have a say in the conversation. To do this i will make an agenda to give everyone a tasks to make sure everyone has something to say at the presentation.
 
