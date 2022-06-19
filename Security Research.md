@@ -19,8 +19,6 @@ In navolging van de Senaat en het Congres, heeft ook de Amerikaanse president Do
 
 <a href="#3-risico">3. Aan welke beveiligingsrisico's komen gebruikers vaak in aanmerking voor?</a><br>
 
-<a href="#4-veiligheid">4. Hoe zorg ik ervoor dat de persoonsgegevens van mijn gebruikers veilig blijft?</a><br>
-
 <a href="#bron">Bronnenlijst</a>
 
 <hr>
