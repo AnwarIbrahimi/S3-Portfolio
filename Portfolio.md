@@ -296,7 +296,7 @@ For this learning outcome i made a STARR reflection on the sitation and communic
 
 ![STARR](https://user-images.githubusercontent.com/99720686/169486147-c5d82dd3-d95e-4aee-b688-c3f625a97af7.png)
 
-**Situation**: During the end of the sprint we had a sprint review with the customer and i took leed on the presentation.
+**Situation**: During the end of the sprint we had a sprint review with the customer and i took leed on the presentation. The people that were involved where the people from the group and the stakeholders. The meeting was at the company of the stakeholder.
 
 **Task**: My task was in the presentation was to talk about the past 3 weeks about what we did as a group and what succedeed and what went wrong. 
 
