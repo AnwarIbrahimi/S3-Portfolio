@@ -112,57 +112,17 @@ and what the steps are to complete one. In order to do this we write on a whiteb
 
 As i explained above agile is an approach to project management and software devolopment. Agile also has a Mainfestio whitch outlines 4 values and 12 principles for teams and are as followed. 
 
-**Individuals and interactions** over processes and tools
-
 **Working software** over comprehensive documentation
 
-**Customer collaboration** over contract negotiation
+For me working software is always more important than a lot of documentation. This is also the same as when you have got a lot of requiremtents and you workout all the requirements half completed instead of having working software that works
 
-**Responding to change** over following a plan
-
-### **The 12 principles behind Agile Manifestio:**
-
-Our highest priority is to satisfy the customer
-through early and continuous delivery
-of valuable software.
-
-Welcome changing requirements, even late in
-development. Agile processes harness change for
-the customer's competitive advantage.
+### **Principles behind Agile Manifestio:**
 
 Deliver working software frequently, from a
 couple of weeks to a couple of months, with a
 preference to the shorter timescale.
 
-Business people and developers must work
-together daily throughout the project.
-
-Build projects around motivated individuals.
-Give them the environment and support they need,
-and trust them to get the job done.
-
-The most efficient and effective method of
-conveying information to and within a development
-team is face-to-face conversation.
-
-Working software is the primary measure of progress.
-
-Agile processes promote sustainable development.
-The sponsors, developers, and users should be able
-to maintain a constant pace indefinitely.
-
-Continuous attention to technical excellence
-and good design enhances agility.
-
-Simplicity--the art of maximizing the amount
-of work not done--is essential.
-
-The best architectures, requirements, and designs
-emerge from self-organizing teams.
-
-At regular intervals, the team reflects on how
-to become more effective, then tunes and adjusts
-its behavior accordingly.
+Like i explained in the value above its better to deliver working software then having lots of software that half works.
 
 ### **Extreme Programming (XP)**
 In the group project we were mainly using the scrum method. In addition to the scrum method there are different agile methods to use. One of these is the Extrexe Programming (XP) one. XP is a method that emphazizes teamwork, communicatioin and feedback. It focuses on constant development and feedback from the customer. Almost the same as scrum. XP also uses short sprint and development cycles so in a way we were also doing XP while doing scrum. XP is mostly being used in a situation where the requirements of a custsomer varies alot. It also allows the developers to keep up with these demands.
@@ -305,4 +265,3 @@ For this learning outcome i made a STARR reflection on the sitation and communic
 **Results**: As a result we had a good overview of which requirements were the priority and in which way these requirements should be made.
 
 **Reflection**: The presentation went smoothly for the most part. We could ask the quesions we wanted and the stakeholder was happy. What i could do better for the next presenatation is to let other peoplpe talk too. This was also feedback from the stakeholder to try and let everyone have a say in the conversation. To do this i will make an agenda to give everyone a tasks to make sure everyone has something to say at the presentation.
-
