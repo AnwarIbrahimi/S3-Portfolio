@@ -19,8 +19,6 @@ Een goed UX design zorgt er niet alleen voor dat gebruikers sneller en makkelijk
 
 <a href="#3-">3. </a><br>
 
-<a href="#4-">4. </a><br>
-
 <a href="#bron">Bronnenlijst</a>
 
 <hr>
@@ -36,7 +34,6 @@ In dit ondezoek ga ik opzoek naar manieren om mijn applicatie meer gebruikersvri
 Om de hoofdvraag te kunnen beantwoorden, deel ik deze op in deelvragen:
 
 <ul>
-    <li></li>
     <li></li>
     <li></li>
     <li></li>
